@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Brief shopping for new customer
 layout: post
 permalink: http://www.bestcheapsoccer.com/
